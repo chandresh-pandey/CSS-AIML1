@@ -1,7 +1,6 @@
 p{
-    color:blue;
-    background-color: black;
-    text-align: center;
+    
+    text-align: center
 }
 .a{
     color:chartreuse;
@@ -10,3 +9,49 @@ p{
 #jk{
     font-size: larger;
 }
+div{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+}
+.c{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    padding: 20px;
+    border: 5px solid rgb(68, 0, 255);
+    
+}
+#ck{
+    background-color: cornflowerblue;
+    border: 4px dashed red ;
+
+}
+.d{height: 200px;
+    width: 200px;
+    background-color: rgb(157, 42, 165);
+    padding: 20px;
+    border: 5px solid rgb(0, 255, 136);
+    }
+    #r{height: 200px;
+    width: 200px;
+    background-color: rgb(165, 130, 42);
+    padding: 20px;
+    border: 5px solid rgb(65, 59, 81);
+    }
+    #Z{
+        /* box-sizing: 300px; */
+        height: 150px;
+       width: 500px;
+        border: 3px solid black ;
+    }
+    #s{
+        color: blue;
+    }
+    /* #x{
+        color: rgb(229, 72, 29);
+    } */
+     #x{
+        color: chocolate;
+     }
