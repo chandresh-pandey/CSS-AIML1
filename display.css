@@ -1,0 +1,28 @@
+div{
+    font-size: large;
+    border: 3px solid black;
+    height: 350px;
+    width: 500px;
+}
+.b{
+    display: inline-block;
+    background-color: chartreuse;
+    height: 200px;
+    width: 100px;
+    margin: 10px;
+
+}
+.c{
+     display: inline-block;
+    background-color: rgb(255, 0, 200);
+    height: 200px;
+    width: 100px;
+    margin: 10px;
+}
+.d{display: inline-block;
+    background-color: rgb(229, 255, 0);
+    height: 200px;
+    width: 100px;
+    margin: 10px
+
+}
