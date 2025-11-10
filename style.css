@@ -42,7 +42,7 @@ div{
     }
     #Z{
         /* box-sizing: 300px; */
-        height: 150px;
+        height: 70px;
        width: 500px;
         border: 3px solid black ;
     }
@@ -52,6 +52,7 @@ div{
     /* #x{
         color: rgb(229, 72, 29);
     } */
-     #x{
-        color: chocolate;
+    #x{
+        color: red;
+        text-align: left;
      }
