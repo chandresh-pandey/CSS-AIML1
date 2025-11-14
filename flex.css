@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    height: 200px;
+    width: 100px;
+    background-color: aquamarine;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+}
+.i{
+    background-color: blanchedalmond;
+    height: 50px;
+    width: 100px;
+    border: solid;
+}
