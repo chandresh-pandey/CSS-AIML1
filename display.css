@@ -6,23 +6,21 @@ div{
 }
 .b{
     display: inline-block;
-    background-color: chartreuse;
     height: 200px;
     width: 100px;
     margin: 10px;
-
+}
+.a{
+    display:inline-block;
+    background-color: chartreuse;
 }
 .c{
      display: inline-block;
     background-color: rgb(255, 0, 200);
-    height: 200px;
-    width: 100px;
-    margin: 10px;
+    
 }
 .d{display: inline-block;
     background-color: rgb(229, 255, 0);
-    height: 200px;
-    width: 100px;
-    margin: 10px
+
 
 }
