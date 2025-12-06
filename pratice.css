@@ -1,0 +1,16 @@
+.class{
+    height: 600px;
+    width: 700px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    display: inline-block;
+    justify-content: center;
+}
+.i{
+    border: 2px solid black;
+    height: 20px;
+    width: 50px;
+    display: inline-block;
+    background-color: chartreuse;
+
+}
