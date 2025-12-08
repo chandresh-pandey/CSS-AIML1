@@ -11,3 +11,19 @@
 @media(min-width:768px){
     .box{background-color: blue;}
 }
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: black;
+    padding: 1rem;
+}
+.menu{
+    display: none;
+    flex-direction: column;
+    background: red;
+}
+.logo{
+    background-color: bisque;
+    
+}
