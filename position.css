@@ -1,0 +1,19 @@
+div{
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+    display: inline;
+}
+.box2{
+    position: relative;
+    top: 10px;
+}
+.box4{
+    position: absolute;
+    top: 50px;
+}
+.box3{
+    position: sticky;
+    left:50px;
+    top: 70px;
+}
